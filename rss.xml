@@ -4,14 +4,14 @@
         <description><![CDATA[[sic]design]]></description>
         <link>https://thegrid.ai/sicdesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 15:55:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Dec 2015 17:00:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sicdesign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MacBook Pro]]></title>
-            <description><![CDATA[<article><h1>MacBook Pro</h1><p>Yes please!</p><img src="http://images.apple.com/macbook-pro/images/overview_hero.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>MacBook Pro</h1><p>Yes please!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd68cfb60c2791d888771dae81bf5eefca8a62a6.jpg"></article>]]></description>
             <link>http://www.apple.com/macbook-pro/</link>
             <guid isPermaLink="false">05c315b0-f821-442c-8b2d-cd14216612c5</guid>
-            <pubDate>Thu, 03 Dec 2015 15:54:43 GMT</pubDate>
+            <pubDate>Fri, 04 Dec 2015 17:00:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
